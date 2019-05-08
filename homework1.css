@@ -1,0 +1,21 @@
+body{
+	background-color: hsl(249, 66%, 90%);
+}
+.title{
+	font-size: 40px;
+	font-family: 'Stylish', sans-serif;
+}
+.by{
+	font-size: 30px;
+	font-family: 'Stylish', sans-serif;
+}
+.lyrics{
+	background-color: white;
+	font-size: 15px;
+	font-family: 'Stylish', sans-serif;
+	position: absolute;
+	text-align: center;
+	width: 350px;
+	height: 120%;
+	left: 38vw;
+}
